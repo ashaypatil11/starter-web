@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <Aashay> -- <Developer> -- <twitter>
+    <Aashay> -- <Developer> -- <Big Data>
 
 # THANKS
 
-    <name>
+    <All Students>
 
 # TECHNOLOGY COLOPHON
 
